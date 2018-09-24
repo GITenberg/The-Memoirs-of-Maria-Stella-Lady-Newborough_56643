@@ -1,5 +1,5 @@
 _repo: The-Memoirs-of-Maria-Stella-Lady-Newborough_56643
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: d'Agen, Boyer
@@ -9,12 +9,17 @@ contributor:
     agent_name: Capes, M. Harriet M.
     gutenberg_agent_id: '48967'
     url: http://www.gutenberg.org/2009/agents/48967
+covers:
+- cover_type: archival
+  image_path: 56643-h/images/cover.jpg
 creator:
   author:
     agent_name: Ungern-Sternberg, Maria Stella
     gutenberg_agent_id: '48965'
     url: http://www.gutenberg.org/2009/agents/48965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56643#The-Memoirs-of-Maria-Stella-Lady-Newborough
 gutenberg_issued: '2018-02-25'
 gutenberg_type: Text
 identifiers:
